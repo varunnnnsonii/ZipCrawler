@@ -148,17 +148,4 @@ Got ideas or issues? Open an [issue](https://github.com/varunnnnsonii/ZipStructu
 
 ---
 
-````
-
----
-
-### ✅ Next Steps:
-
-1. Save this as `README.md` inside your `ZipStructure` project.
-2. Run:
-```bash
-git add README.md
-git commit -m "📦 Add README explaining ZIP extraction and tree viewer"
-git push origin main
-````
 
